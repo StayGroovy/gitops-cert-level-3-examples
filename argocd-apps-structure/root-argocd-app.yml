@@ -4,7 +4,7 @@ metadata:
   name: all-apps
   namespace: argocd
 spec:
-  project: defaul
+  project: default
   source:
     repoURL: https://github.com/codefresh-contrib/gitops-cert-level-3-examples.git
     targetRevision: HEAD
